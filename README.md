@@ -25,20 +25,20 @@
 
 #### IDE & TOOLS
 
-[<img align="left" alt="JetBrains" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />]()
-[<img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />]()
+[<img align="left" alt="JetBrains" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />](#)
+[<img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />](#)
 
 <br />
 
 #### Languages
 
-[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />]()
-[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />]()
-[<img align="left" alt="C#" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />]()
-[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />]()
-[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />]()
-[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />]()
-[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />]()
-[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />]()
+[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#)
+[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#)
+[<img align="left" alt="C#" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#)
+[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#)
+[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#)
+[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#)
+[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#)
+[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#)
 
 <!--Icon : Copyright to devicons devicon repository https://github.com/devicons/devicon-->
