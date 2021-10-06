@@ -27,6 +27,9 @@
 
 [<img align="left" alt="JetBrains" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />](#IDE-&-TOOLS)
 [<img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="Docker" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="Kubernetes" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />](#IDE-&-TOOLS)
+
 
 <br />
 
@@ -34,11 +37,14 @@
 
 [<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#Languages)
 [<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#Languages)
-[<img align="left" alt="C#" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#Languages)
+[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#Languages)
+[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#Languages)
 [<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#Languages)
 [<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#Languages)
 [<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#Languages)
 [<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#Languages)
 [<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#Languages)
+[<img align="left" alt="Php" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#Languages)
+[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#Languages)
 
 <!--Icon : Copyright to devicons devicon repository https://github.com/devicons/devicon-->
