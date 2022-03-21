@@ -1,15 +1,16 @@
 
 ### Hi there, I'm Théo aka Wealw 👋
 
-[![Website](https://img.shields.io/website?down_message=offline&label=theo-weimann.net&logo=theo-weimann.net&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.theo-weimann.net)](https://theo-weimann.net)
+[![Website](https://img.shields.io/badge/theo.weimann.net-online-green?publish&style=for-the-badge)](https://theo-weimann.net)
 [![Mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=theo.weimann@viacesi.fr)](mailto:theo.weimann@viacesi.fr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Th%C3%A9o.W#4269/)
+![GitHub followers](https://img.shields.io/github/followers/wealw?label=Github%20followers&style=for-the-badge)
 
 
 ## I'm student attending for an engineering degree in IT at Cesi.
 
 - 🔭 I’m currently working on my personal kubernetes cluster configuration for my homelab
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering at Cesi and UQAM
 
 
 ### Connect with me:
@@ -45,18 +46,18 @@
 
 <br />
 
-#### Languages
+#### Technologies
 
-[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#Languages)
-[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#Languages)
-[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#Languages)
-[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#Languages)
-[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#Languages)
-[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#Languages)
-[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#Languages)
-[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#Languages)
-[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#Languages)
+[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#Technologies)
+[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#Technologies)
+[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#Technologies)
+[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#Technologies)
+[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#Technologies)
+[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#Technologies)
+[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#Technologies)
+[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#Technologies)
+[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#Technologies)
 [<img align="left" alt="Php" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#Languages)
-[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#Languages)
+[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#Technologies)
 
 <!--Icon : Copyright to devicons devicon repository https://github.com/devicons/devicon-->
