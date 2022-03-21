@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Théo aka Wealw 👋
 
-[![Website](https://img.shields.io/website?label=theo-weimann.net&style=for-the-badge&url=https%3A%2F%2Ftheo-weimann.net)](https://theo-weimann.net)
+[![Website](https://img.shields.io/website?down_message=offline&label=theo-weimann.net&logo=theo-weimann.net&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.theo-weimann.net)](https://theo-weimann.net)
 [![Mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&label=theo.weimann@viacesi.fr)](mailto:theo.weimann@viacesi.fr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Th%C3%A9o.W#4269/)
 
@@ -16,10 +16,22 @@
 
 [<img align="left" alt="theo-weimann.net" width="38px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theo-weimann.net)
 [<img align="left" alt="théo-weimann | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9o-weimann/)
-[<img align="left" alt="W3alw | Facebook" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/W3alw/)
-[<img align="left" alt="théo-weimann | Facebook" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wealw)
-[<img align="left" alt="théo-weimann | Facebook" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/wealw)
+[<img align="left" alt="théo-weimann | Github" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wealw)
+[<img align="left" alt="théo-weimann | Gitlab" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/wealw)
 
+<br />
+<br />
+
+#### CERTIFICATION
+
+[<img align="left" alt="AZ-900" width="128px" src="https://github.com/Wealw/Wealw/blob/ba5bad6efff6c4afe011c6c576f18bd6f180b2ce/img/azure-fundamentals.png" />](#CERTIFICATION)
+[<img align="left" alt="AI-900" width="128px" src="https://github.com/Wealw/Wealw/blob/fddb2db761c18017056963b1cf7a91120796e595/img/azure-ai-fundamentals.png" />](#CERTIFICATION)
+[<img align="left" alt="SC-900" width="128px" src="https://github.com/Wealw/Wealw/blob/fddb2db761c18017056963b1cf7a91120796e595/img/security-compliance-and-identity-fundamentals.png" />](#CERTIFICATION)
+
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
