@@ -38,26 +38,28 @@
 
 #### IDE & TOOLS
 
-[<img align="left" alt="JetBrains" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />](#IDE-&-TOOLS)
-[<img align="left" alt="Git" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />](#IDE-&-TOOLS)
-[<img align="left" alt="Docker" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />](#IDE-&-TOOLS)
-[<img align="left" alt="Kubernetes" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="JetBrains" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="Git" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="Docker" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />](#IDE-&-TOOLS)
+[<img align="left" alt="Kubernetes" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" />](#IDE-&-TOOLS)
 
 
+<br />
+<br />
 <br />
 
 #### TECHNOLOGIES
 
-[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#TTECHNOLOGIES)
-[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Php" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#TECHNOLOGIES)
-[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="C++" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="C#" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Arduino" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Java" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Html" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Css" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#TTECHNOLOGIES)
+[<img align="left" alt="Js" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Ts" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Svelte.js" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Php" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Symfony" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#TECHNOLOGIES)
 
 <!--Icon : Copyright to devicons devicon repository https://github.com/devicons/devicon-->
