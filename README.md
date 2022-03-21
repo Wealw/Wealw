@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="theo-weimann.net" width="38px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://theo-weimann.net)
-[<img align="left" alt="théo-weimann | LinkedIn" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9o-weimann/)
-[<img align="left" alt="théo-weimann | Github" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Wealw)
-[<img align="left" alt="théo-weimann | Gitlab" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/wealw)
+[<img align="left" alt="theo-weimann.net" width="64px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />](https://theo-weimann.net)
+[<img align="left" alt="théo-weimann | LinkedIn" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9o-weimann/)
+[<img align="left" alt="théo-weimann | Github" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/github.svg" />](https://github.com/Wealw)
+[<img align="left" alt="théo-weimann | Gitlab" width="64px" src="https://github.com/Wealw/Wealw/blob/main/img/gitlab.svg" />](https://gitlab.com/wealw)
 <br clear="left"/>
 
 #### CERTIFICATIONS
