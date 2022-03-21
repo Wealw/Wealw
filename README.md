@@ -13,11 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="theo-weimann.net" width="64px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />](https://theo-weimann.net)
-[<img align="left" alt="théo-weimann | LinkedIn" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9o-weimann/)
-[<img align="left" alt="théo-weimann | Github" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/github.svg" />](https://github.com/Wealw)
-[<img align="left" alt="théo-weimann | Gitlab" width="64px" src="https://github.com/Wealw/Wealw/blob/main/img/gitlab.svg" />](https://gitlab.com/wealw)
-<br clear="left"/>
+[<img align="left" alt="theo-weimann.net" width="48px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />](https://theo-weimann.net)
+[<img align="left" alt="théo-weimann | LinkedIn" width="48px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/linkedin.svg" />](https://www.linkedin.com/in/th%C3%A9o-weimann/)
+[<img align="left" alt="théo-weimann | Github" width="48px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/github.svg" />](https://github.com/Wealw)
+[<img align="left" alt="théo-weimann | Gitlab" width="48px" src="https://github.com/Wealw/Wealw/blob/main/img/gitlab.svg" />](https://gitlab.com/wealw)
 <br clear="left"/>
 
 #### CERTIFICATIONS
@@ -25,6 +24,7 @@
 [<img align="left" alt="AZ-900" width="128px" src="https://github.com/Wealw/Wealw/blob/ba5bad6efff6c4afe011c6c576f18bd6f180b2ce/img/azure-fundamentals.png" />](#CERTIFICATION)
 [<img align="left" alt="AI-900" width="128px" src="https://github.com/Wealw/Wealw/blob/fddb2db761c18017056963b1cf7a91120796e595/img/azure-ai-fundamentals.png" />](#CERTIFICATION)
 [<img align="left" alt="SC-900" width="128px" src="https://github.com/Wealw/Wealw/blob/fddb2db761c18017056963b1cf7a91120796e595/img/security-compliance-and-identity-fundamentals.png" />](#CERTIFICATION)
+[<img align="left" alt="SC-900" width="128px" src="https://github.com/Wealw/Wealw/blob/main/img/azure-data-fundamentals.png" />](#CERTIFICATION)
 <br clear="left"/>
 
 #### IDE & TOOLS
