@@ -23,7 +23,7 @@
 <br />
 <br />
 
-#### CERTIFICATION
+#### CERTIFICATIONS
 
 [<img align="left" alt="AZ-900" width="128px" src="https://github.com/Wealw/Wealw/blob/ba5bad6efff6c4afe011c6c576f18bd6f180b2ce/img/azure-fundamentals.png" />](#CERTIFICATION)
 [<img align="left" alt="AI-900" width="128px" src="https://github.com/Wealw/Wealw/blob/fddb2db761c18017056963b1cf7a91120796e595/img/azure-ai-fundamentals.png" />](#CERTIFICATION)
@@ -46,18 +46,18 @@
 
 <br />
 
-#### Technologies
+#### TECHNOLOGIES
 
-[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#Technologies)
-[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#Technologies)
-[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#Technologies)
-[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#Technologies)
-[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#Technologies)
-[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#Technologies)
-[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#Technologies)
-[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#Technologies)
-[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#Technologies)
-[<img align="left" alt="Php" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#Languages)
-[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#Technologies)
+[<img align="left" alt="C++" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="C#" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Arduino" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Java" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Html" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Css" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#TTECHNOLOGIES)
+[<img align="left" alt="Js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Ts" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Svelte.js" width="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Php" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#TECHNOLOGIES)
+[<img align="left" alt="Symfony" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#TECHNOLOGIES)
 
 <!--Icon : Copyright to devicons devicon repository https://github.com/devicons/devicon-->
