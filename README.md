@@ -37,6 +37,7 @@
 
 #### TECHNOLOGIES
 
+##### Object Oriented Programming languages
 <!--Heavy-->
 [<img align="left" alt="C++" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="C#" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />](#TECHNOLOGIES)
@@ -44,6 +45,7 @@
 [<img align="left" alt="Java" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Python" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" />](#TECHNOLOGIES)
 <br clear="left"/>
+##### Web languages
 <!--Web basic-->
 [<img align="left" alt="Html" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Css" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />](#TTECHNOLOGIES)
@@ -51,20 +53,24 @@
 [<img align="left" alt="Ts" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Php" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />](#TECHNOLOGIES)
 <br clear="left"/>
+##### Web Frameworks
 <!--Web framework-->
 [<img align="left" alt="Svelte.js" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Angular" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Symfony" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" />](#TECHNOLOGIES)
 <br clear="left"/>
+##### Databases
 <!--Database-->
 [<img align="left" alt="MySQL" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="MongoDb" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />](#TECHNOLOGIES)
 <br clear="left"/>
+##### Operating systems
 <!--OS-->
 [<img align="left" alt="Windows" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Linux" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Debian" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" />](#TECHNOLOGIES)
 <br clear="left"/>
+##### Cloud environements
 <!--Cloud-->
 [<img align="left" alt="Azure" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="GCP" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />](#TECHNOLOGIES)
