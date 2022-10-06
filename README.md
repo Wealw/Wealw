@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/wealw?label=Github%20followers&style=for-the-badge)
 <br clear="left"/>
 
-## I'm student attending for an engineering degree in IT at Cesi.
+## I'm a student attending for an engineering degree in IT at Cesi.
 
 - 🔭 I’m currently working on my personal kubernetes cluster configuration for my homelab
 - 🌱 I’m currently learning software engineering at Cesi and UQAM
