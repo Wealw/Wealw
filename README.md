@@ -11,6 +11,10 @@
 - 🔭 I’m currently working on my personal kubernetes cluster configuration for my homelab
 - 🌱 I’m currently learning software engineering at Cesi and UQAM
 
+[<img align="left" alt="cesi.fr" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/cesi.svg"  />](https://www.cesi.fr)
+[<img align="left" alt="uqam.ca" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/uqam.svg"  />](https://www.uqam.ca)
+<br clear="left"/>
+
 ### Connect with me:
 
 [<img align="left" alt="theo-weimann.net" width="48px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />](https://theo-weimann.net)
