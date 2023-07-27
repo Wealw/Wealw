@@ -46,6 +46,7 @@
 [<img align="left" alt="Cisco" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/cisco.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Ubiquiti" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/ui.svg" />](#TECHNOLOGIES)
 [<img align="left" alt="Fortinet" width="64px" src="https://raw.githubusercontent.com/Wealw/Wealw/main/img/fortinet.svg" />](#TECHNOLOGIES)
+<br clear="left"/>
 
 ##### Object Oriented Programming languages
 <!--Heavy-->
