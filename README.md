@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/wealw?label=Github%20followers&style=for-the-badge)
 <br clear="left"/>
 
-## I'm a student attending for an engineering degree in IT at Cesi.
+## I'm the main cybersecurity engineer at Département de la Moselle
 
 - 🔭 I’m currently working on my personal kubernetes cluster configuration for my homelab
 - 🌱 I’m currently looking for a first job in networking or cybersecurity.
